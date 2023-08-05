@@ -1,7 +1,13 @@
-# moocfi_java
-##Solutions of Java Programming MOOC Helsinki, Part I and II
-Course work for University of Helsinki’s free massive open online course (MOOC) completed exercises. 2023 solutions.
-Course: [https://java-programming.mooc.fi/]
-Some parts may be partly completed.
+# moocfi_java  
+Solutions of Java Programming MOOC Helsinki, Part I and II 
 
-Feel free to ask questions or give feedback via issues tab.
+
+Course work for University of Helsinki’s free massive open online course (MOOC) completed exercises. 2023 solutions.
+
+Course: [https://java-programming.mooc.fi/] 
+
+Some parts may be partly completed.  
+
+Hope you enjoyed this course as much as I did.  
+
+Feel free to ask questions or give feedback via issues tab.  
